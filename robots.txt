@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /api
-Disallow: /2fa
-Disallow: /example.txt
-Sitemap: https://airsmm.com/sitemap.xml
